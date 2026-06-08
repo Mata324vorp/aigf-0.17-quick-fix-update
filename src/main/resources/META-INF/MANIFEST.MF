@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: aigf
+Specification-Vendor: Litewer
+Specification-Version: 0.17
+Implementation-Title: AIGF
+Implementation-Version: 0.17 QUICK FIX UPDATE
+Implementation-Vendor: Litewer
+Implementation-Timestamp: 2026-03-12T15:21:49+0300
+
